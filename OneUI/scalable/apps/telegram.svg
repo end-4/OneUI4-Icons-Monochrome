@@ -7,11 +7,10 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="telegram.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,43 +26,22 @@
      units="px"
      height="48px"
      inkscape:zoom="7.9999996"
-     inkscape:cx="4.3125002"
-     inkscape:cy="24.750001"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:cx="25.125001"
+     inkscape:cy="26.687501"
+     inkscape:window-width="949"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1595">
-      <stop
-         style="stop-color:#1d9ad8;stop-opacity:1"
-         offset="0"
-         id="stop1591" />
-      <stop
-         style="stop-color:#3cacde;stop-opacity:1"
-         offset="1"
-         id="stop1593" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1595"
-       id="linearGradient1196"
-       x1="5.8208332"
-       y1="16.933334"
-       x2="5.8208337"
-       y2="6.7529299e-07"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.049494,0,0,4.049494,-2.2857143,-2.2857143)" />
-  </defs>
+     id="defs2" />
   <path
      id="rect863"
-     style="fill:url(#linearGradient1196);fill-opacity:1;stroke-width:1.07143"
+     style="fill:#333333;fill-opacity:1;stroke-width:1.07143"
      d="M 32 2 C 10.399999 2 2 10.399998 2 32 C 2 53.600001 10.399999 62 32 62 C 53.600002 62 62 53.600001 62 32 C 62 10.399998 53.600002 2 32 2 z "
      transform="scale(0.26458333)" />
   <path

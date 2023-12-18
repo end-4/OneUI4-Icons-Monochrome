@@ -6,7 +6,7 @@
    sodipodi:docname="software-store.svg"
    width="64"
    height="64"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,29 +26,6 @@
          offset="1"
          id="stop14310" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient13456">
-      <stop
-         style="stop-color:#dc06fe;stop-opacity:1;"
-         offset="0"
-         id="stop13452" />
-      <stop
-         style="stop-color:#dc06fe;stop-opacity:0;"
-         offset="1"
-         id="stop13454" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient13456"
-       id="radialGradient13458"
-       cx="15.124999"
-       cy="52"
-       fx="15.124999"
-       fy="52"
-       r="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2124444e-7,1.6000001,-1.4666669,1.3941949e-7,88.266668,-10.200007)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14312"
@@ -71,15 +48,17 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="5.6568542"
-     inkscape:cx="7.6013979"
-     inkscape:cy="40.835417"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="7.601398"
+     inkscape:cy="40.923805"
+     inkscape:window-width="949"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="false" />
+     showguides="false"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
@@ -90,7 +69,7 @@
      d="M 32,2 C 10.4,2 2,10.4 2,32 2,53.6 10.4,62 32,62 53.6,62 62,53.6 62,32 62,10.4 53.6,2 32,2 Z" />
   <path
      id="rect13260"
-     style="fill:url(#radialGradient13458);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 32,2 C 10.4,2 2,10.4 2,32 2,53.6 10.4,62 32,62 53.6,62 62,53.6 62,32 62,10.4 53.6,2 32,2 Z" />
   <path
      id="rect12312"

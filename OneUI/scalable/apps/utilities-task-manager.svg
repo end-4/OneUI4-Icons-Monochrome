@@ -3,10 +3,10 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="gnome-usage.svg"
+   sodipodi:docname="utilities-task-manager.svg"
    width="64"
    height="64"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -73,29 +73,6 @@
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient13456"
-       id="radialGradient13458"
-       cx="6.022944"
-       cy="53.379589"
-       fx="6.022944"
-       fy="53.379589"
-       r="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.44829562,1.8422552,-1.6781877,-0.40837116,110.10505,14.257966)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient13456">
-      <stop
-         style="stop-color:#7882ff;stop-opacity:1"
-         offset="0"
-         id="stop13452" />
-      <stop
-         style="stop-color:#7882ff;stop-opacity:0"
-         offset="1"
-         id="stop13454" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient14312"
        id="radialGradient6062"
        cx="8.0913172"
@@ -116,15 +93,17 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="11.313708"
-     inkscape:cx="31.02431"
-     inkscape:cy="40.216698"
-     inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:cx="8.8388352"
+     inkscape:cy="41.100583"
+     inkscape:window-width="1908"
+     inkscape:window-height="509"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="true" />
+     showguides="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
@@ -135,7 +114,7 @@
      d="M 32,2 C 10.4,2 2,10.4 2,32 c 0,21.600006 8.4,30.000006 30,30.000006 21.600001,0 30.000001,-8.4 30.000001,-30.000006 0,-21.6 -8.4,-30 -30.000001,-30 z" />
   <path
      id="rect13260"
-     style="fill:url(#radialGradient13458);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 32,2 C 10.4,2 2,10.4 2,32 2,53.6 10.4,62 32,62 53.6,62 62,53.6 62,32 62,10.4 53.6,2 32,2 Z" />
   <path
      id="rect1137"

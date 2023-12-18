@@ -6,36 +6,13 @@
    sodipodi:docname="wps-office-wpsmain.svg"
    width="64"
    height="64"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient996">
-      <stop
-         style="stop-color:#3cb8ff;stop-opacity:1"
-         offset="0"
-         id="stop992" />
-      <stop
-         style="stop-color:#3297ff;stop-opacity:1"
-         offset="1"
-         id="stop994" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient996"
-       id="linearGradient998"
-       x1="32"
-       y1="2"
-       x2="32"
-       y2="62"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs8" />
   <sodipodi:namedview
      id="namedview6"
      pagecolor="#ffffff"
@@ -48,17 +25,19 @@
      inkscape:zoom="2.1627524"
      inkscape:cx="-1.6183082"
      inkscape:cy="74.210992"
-     inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-width="949"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="false" />
+     showguides="false"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="stroke-width:0.3;fill:url(#linearGradient998);fill-opacity:1" />
+     style="stroke-width:0.3;fill:#333333;fill-opacity:1" />
   <path
      id="rect3249"
      style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
