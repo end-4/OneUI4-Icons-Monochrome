@@ -6,7 +6,7 @@
    sodipodi:docname="libreoffice-draw.svg"
    width="64"
    height="64"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,19 +23,21 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="12.078125"
-     inkscape:cx="32"
-     inkscape:cy="31.958603"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:cx="34.608021"
+     inkscape:cy="31.337646"
+     inkscape:window-width="949"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="true" />
+     showguides="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="stroke-width:0.3;fill:#f9c224;fill-opacity:1;stroke:none" />
+     style="stroke-width:0.3;fill:#333333;fill-opacity:1;stroke:none" />
   <path
      id="rect2173"
      style="fill:#ffffff"
@@ -43,17 +45,17 @@
      sodipodi:nodetypes="sccssssss" />
   <path
      id="rect2357"
-     style="fill:#fdf1ce;fill-opacity:1;stroke-width:0.370066"
+     style="fill:#cccccc;fill-opacity:1;stroke-width:0.370066"
      d="m 36,10 h 7 c 2.77,0 5,2.23 5,5 v 7.000001 z"
      sodipodi:nodetypes="csscc" />
   <circle
-     style="opacity:1;fill:#fccf9b;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      id="path843"
      cx="28"
      cy="33"
      r="6" />
   <rect
-     style="opacity:1;fill:#edb309;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#999999;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      id="rect1079"
      width="11"
      height="11"
@@ -62,6 +64,6 @@
      ry="1.5" />
   <path
      id="path6249"
-     style="color:#000000;fill:#f58203;stroke:none;stroke-width:2.00009;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#b3b3b3;stroke:none;stroke-width:2.00009;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 32.5,32 a 1.0001875,1.0001 0 0 0 -0.876053,0.518554 l -5.500481,10 A 1.0001875,1.0001 0 0 0 26.999519,44 h 11.000962 a 1.0001875,1.0001 0 0 0 0.876053,-1.481446 l -5.500481,-10 A 1.0001875,1.0001 0 0 0 32.5,32 Z" />
 </svg>

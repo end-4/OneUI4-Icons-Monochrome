@@ -6,7 +6,7 @@
    sodipodi:docname="games-2048.svg"
    width="64"
    height="64"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,34 +23,36 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="6.53125"
-     inkscape:cx="52.363636"
-     inkscape:cy="40.803828"
-     inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:cx="28.937799"
+     inkscape:cy="34.296651"
+     inkscape:window-width="949"
+     inkscape:window-height="509"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="true" />
+     showguides="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="stroke-width:0.3;fill:#b3a084;fill-opacity:1;stroke:none" />
+     style="stroke-width:0.3;fill:#333333;fill-opacity:1;stroke:none" />
   <path
      id="rect925"
      style="fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="m 15,33 h 14 c 1.108,0 2,0.892 2,2 v 14 c 0,1.108 -0.892,2 -2,2 H 15 c -1.108,0 -2,-0.892 -2,-2 V 35 c 0,-1.108 0.892,-2 2,-2 z" />
   <path
      id="rect927"
-     style="fill:#e6e0d6;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#cccccc;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="m 29,13 c 1.108,0 2,0.892 2,2 v 14 c 0,1.108 -0.892,2 -2,2 H 15 c -1.108,0 -2,-0.892 -2,-2 V 15 c 0,-1.108 0.892,-2 2,-2 z m 20,20 c 1.108,0 2,0.892 2,2 v 14 c 0,1.108 -0.892,2 -2,2 H 35 c -1.108,0 -2,-0.892 -2,-2 V 35 c 0,-1.108 0.892,-2 2,-2 z" />
   <path
      id="rect1033"
-     style="fill:#756b5b;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#999999;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="m 35,13 h 14 c 1.108,0 2,0.892 2,2 v 14 c 0,1.108 -0.892,2 -2,2 H 35 c -1.108,0 -2,-0.892 -2,-2 V 15 c 0,-1.108 0.892,-2 2,-2 z" />
   <path
      id="rect19971"
-     style="fill:#756b5b;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 21.869141 16 C 20.692989 16 19.753435 16.335726 19.048828 17.007812 C 18.349641 17.679899 18 18.56096 18 19.650391 L 19.503906 19.650391 C 19.503906 18.891583 19.70917 18.30167 20.121094 17.878906 C 20.538438 17.450722 21.121173 17.236328 21.869141 17.236328 C 22.492447 17.236328 22.991251 17.434415 23.365234 17.830078 C 23.739218 18.225742 23.927734 18.731723 23.927734 19.349609 C 23.927734 19.810314 23.811187 20.257802 23.578125 20.691406 C 23.350483 21.11959 22.933218 21.676888 22.326172 22.365234 L 18.228516 26.917969 L 18.228516 28 L 25.984375 28 L 25.984375 26.771484 L 20.041016 26.771484 L 23.210938 23.333984 C 24.696031 21.724229 25.439453 20.335233 25.439453 19.169922 C 25.439453 18.210573 25.120035 17.443666 24.480469 16.869141 C 23.840903 16.289195 22.969411 16 21.869141 16 z " />
   <path
      id="rect22499"
