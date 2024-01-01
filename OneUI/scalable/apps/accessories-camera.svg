@@ -22,11 +22,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="12.078125"
-     inkscape:cx="32"
-     inkscape:cy="32"
-     inkscape:window-width="1263"
-     inkscape:window-height="1028"
+     inkscape:zoom="8.5405241"
+     inkscape:cx="25.818088"
+     inkscape:cy="32.550696"
+     inkscape:window-width="1540"
+     inkscape:window-height="509"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,16 +37,16 @@
   <path
      d="M 2,32 C 2,10.4 10.4,2 32,2 53.6,2 62,10.4 62,32 62,53.6 53.6,62 32,62 10.4,62 2,53.6 2,32"
      id="path2"
-     style="stroke-width:0.3;fill:#1a1a1a;fill-opacity:1" />
+     style="stroke-width:0.3;fill:#333333;fill-opacity:1" />
   <rect
-     style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.888889"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.888889"
      id="rect7376"
      width="16"
      height="16"
      x="24"
      y="24" />
   <rect
-     style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.9"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.9"
      id="rect7480"
      width="9"
      height="9"
